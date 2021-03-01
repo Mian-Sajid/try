@@ -7,7 +7,7 @@ import Grounddata from './components/Groundata'
 import HowWork from './components/HowWork'
 import Model from './components/Model'
 //import Recaptcha from 'react-recaptcha';
-import Header from './components/Header'
+//import Header from './components/Header'
 //import ImageCom from './components/ImageCom'
 //import About from './components/About'
 //import Contact from './components/Contact'
