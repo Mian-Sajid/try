@@ -75,21 +75,21 @@ function Model() {
       </ol>
       <div class="carousel-inner">
       <div class="carousel-item active">
-      <img class="d-block w-100" src="./imges/indexagian1.jpg" width="100%" height="100%" alt="First slide"/>
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/Mian-Sajid/tut/main/public/imges/index5.jpg" width="100%" height="100%" alt="First slide"/>
     </div>
      <div class="carousel-item">
-      <img class="d-block w-100" src="./imges/index6.jpg"  width="100%" height="100%"  alt="Second slide"/>
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/Mian-Sajid/tut/main/public/imges/index6.jpg"  width="100%" height="100%"  alt="Second slide"/>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./imges/index7.jpg"  width="100%" height="100%" alt="Third slide"/>
-    </div>
-
-    <div class="carousel-item">
-      <img class="d-block w-100" src="./imges/index7.jpg"  width="100%" height="100%" alt="Third slide"/>
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/Mian-Sajid/tut/main/public/imges/index7.jpg"  width="100%" height="100%" alt="Third slide"/>
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="./imges/index7.jpg"  width="100%" height="100%" alt="Third slide"/>
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/Mian-Sajid/tut/main/public/imges/index9.jpg"  width="100%" height="100%" alt="Third slide"/>
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/Mian-Sajid/tut/main/public/imges/index9.jpg"  width="100%" height="100%" alt="Third slide"/>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -116,13 +116,13 @@ function Model() {
            <div className="container">
            <div className="row">
            <div className="col-lg-6 col-md-12 col-sm-12 pt-5">
-             <img src="./imges/indexmap.png" alt="fs" width="100%" height="90%"/>
+             <img src="https://raw.githubusercontent.com/Mian-Sajid/tut/main/public/imges/indexmap.png" alt="fs" width="100%" height="90%"/>
             
            </div>
 
            <div className="col-lg-6 col-md-12 col-sm-12 pt-5">
              
-           <img src="./imges/indexb.png" alt="fs" width="100%" height="90%"/>
+           <img src="https://raw.githubusercontent.com/Mian-Sajid/tut/main/public/imges/indexb.png" alt="fs" width="100%" height="90%"/>
 
            </div>
            </div>

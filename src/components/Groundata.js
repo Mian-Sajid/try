@@ -1,7 +1,7 @@
 import React from 'react'
-import ImageSlider from "react-image-comparison-slider";
+//import ImageSlider from "react-image-comparison-slider";
 import ReactCompareImage from 'react-compare-image';
-import { red } from '@material-ui/core/colors';
+//import { red } from '@material-ui/core/colors';
 //import Video from './Video';
 
 
@@ -59,7 +59,7 @@ function Grounddata() {
             
          }}
          >
-        <ReactCompareImage leftImage="./imges/indexpost.jpg "  rightImage="./imges/indexpre.jpg" />;
+        <ReactCompareImage leftImage="https://raw.githubusercontent.com/Mian-Sajid/tut/main/public/imges/indexpost.jpg"  rightImage="https://raw.githubusercontent.com/Mian-Sajid/tut/main/public/imges/indexpre.jpg"/>
         </div>
         </div>
            

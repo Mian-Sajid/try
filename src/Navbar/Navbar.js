@@ -45,7 +45,7 @@ const Navbar = ()=> {
      {/* <nav className={nav ? "nav active fixed-top" :"nav navbar-expand-lg"}> */}
      <nav className= "nav navbar active navbar-expand-lg fixed-top">
      <div className="container">
-  <Link className="navbar-brand" to="APP" smooth={true} duration={2000}> <img src="./imges/index11.png" alt="ds"/></Link>
+  <Link className="navbar-brand" to="APP" smooth={true} duration={2000}> <img src="https://raw.githubusercontent.com/Mian-Sajid/tut/main/public/imges/index11.png" alt="dghfs"/></Link>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span ><i class="fa fa-bars" aria-hidden="true"></i>
 </span>

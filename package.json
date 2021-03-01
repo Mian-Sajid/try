@@ -2,7 +2,7 @@
   "name": "osam",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Mian-Sajid/reactt.git",
+  "homepage": "https://github.com/Mian-Sajid/tut",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^12.6.0",
     "bootstrap": "^5.0.0-beta2",
     "bootstrap4": "0.0.1-security",
+    "date-fns": "^2.17.0",
     "infinite-react-carousel": "^1.2.11",
     "json-server": "^0.16.3",
     "nuka-carousel": "^4.7.5",
@@ -41,9 +42,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server --watch db.json --port 5000",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "server": "json-server --watch db.json --port 5000"
   },
   "eslintConfig": {
     "extends": [

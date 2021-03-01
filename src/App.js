@@ -43,7 +43,7 @@ import Navbar from './Navbar/Navbar'
        zIndex:"-1"
      }}
      >
-    <source src="./imges/homepage.mp4"/>
+    <source src="https://mpartial-data.s3.us-east-2.amazonaws.com/homepage.mp4" alt="sd"/>
     <h1 className="text-danger">jksrk</h1>
     
     
